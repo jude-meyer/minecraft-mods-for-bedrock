@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+      "description": "Sunflower Cow Resources!",
+    "name": "StrawberryCowRP",
+    "uuid":"d6c986e6-9b4f-43c7-8741-67925df9d6cf",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Sunflower Cow Resources!",
+      "type": "resources",
+      "uuid": "209834b6-9846-4bd1-aa3d-a0bde36e286a",
+      "version": [1, 0, 0]
+    }
+  ]
+}
